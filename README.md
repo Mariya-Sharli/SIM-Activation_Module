@@ -6,6 +6,13 @@
 This is a simple Spring Boot project demonstrating Dependency Injection (DI) using interfaces and their implementation classes.
 It uses Airtel and Jio as examples of SIM providers injected into a Mobile component.
 
+### 👩‍💻 Author
+Mariya Sharli P
+
+💼 Java Backend Developer
+
+🔗 https://www.linkedin.com/in/mariya-sharli-p
+
 ### 🚀 Project Overview
 
 The main purpose of this project is to understand how Spring Boot automatically manages dependencies and injects objects using the @Autowired annotation.
